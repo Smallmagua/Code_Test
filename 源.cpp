@@ -9,7 +9,7 @@ int main()
 		sum = sum + 1.0 / n;
 		++n;
 	}
-	printf("最小值：%d\n", n);
+	printf("最小值为：%d\n", n);
 
 	return 0;
 }
